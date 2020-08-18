@@ -1,2 +1,2 @@
-# 6DOF_implement
+# Direction classification
 Master intern 2020
